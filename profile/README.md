@@ -1,4 +1,4 @@
-## Hi There Welcome To TheFryrvoArchive 
+## Hi There Welcome To FryrvoArchive 
 
 > Here you'll find our project and test template that we try to figure tings out
 > <br>
