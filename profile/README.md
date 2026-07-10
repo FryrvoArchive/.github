@@ -6,4 +6,4 @@
 > <br>
 > There are notting much to say
 >
-> [Click here to go back](https://github.com/fryrvo)
+> [Back To Fryrvo](https://github.com/fryrvo)
