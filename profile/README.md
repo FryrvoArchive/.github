@@ -6,4 +6,6 @@
 > <br>
 > There are notting much to say
 >
-> [Back To Fryrvo](https://github.com/fryrvo)
+
+>Look for sometings else? [FryrvoPortal](https://github.com/FryrvoFox)
+>
