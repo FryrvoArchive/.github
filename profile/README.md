@@ -7,5 +7,5 @@
 > There are notting much to say
 >
 
->Look for sometings else? [FryrvoPortal](https://github.com/FryrvoFox)
+>Look for sometings else? [FryrvoPortal](https://github.com/Fryrvosystem)
 >
